@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #251B37;
+}
+header{
+    overflow: hidden;
+}
+.header_content{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+section{
+    overflow: hidden;
+}
+.search{
+    color: bisque;
+    width: 97%;
+    background-color: #4C6793;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.para_line{
+    overflow: hidden;
+}
+.paragraph{
+    color: #CD104D;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: italic;
+}
+.c_line{
+    overflow: hidden;
+}
+.Calendar{
+    color: antiquewhite;
+    margin-top: 30px;
+    margin-left: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.line_one{
+    overflow: hidden;
+}
+.l_one{
+    color: bisque;
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 90px;
+    background-color: #372948;
+    float: left;
+    height: 70px;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.l_two{
+    color: bisque;
+    width: 40%;
+    margin-top: 20px;
+    margin-right: 80px;
+    background-color: #372948;
+    float: right;
+    height: 70px;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+footer{
+    width: 98%;
+    text-align: center;
+    color: bisque;
+    margin-top: 50px;
+    background-color: #4C6793;
+    height: 50px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
